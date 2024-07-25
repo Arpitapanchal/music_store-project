@@ -68,6 +68,7 @@ Window Functions:
 Window functions (ROW_NUMBER() OVER) are applied to rank genres within countries and identify the most popular ones, as well as to partition and sort data for customer spending analysis.
 
 Project Outcomes
+
 This SQL Music Store Analysis Project demonstrates the power of SQL in extracting valuable insights from a dataset. By performing detailed analyses on customer behavior, spending patterns, genre popularity, and high-value transactions, the project provides actionable information that can guide business decisions, marketing strategies, and promotional activities. The use of advanced SQL techniques ensures that the queries are efficient and effective in uncovering the underlying trends and patterns in the data. The insights gained from this project can help the music store optimize its operations, enhance customer satisfaction, and drive revenue growth.
 
 
